@@ -1,8 +1,9 @@
 /*  your css code here. If applicable */
 body{
 	background-color:#f8f8f8;
-	width:500px; 
-	height:400px;
+	
+/* 	width:500px;  */
+/* 	height:400px; */
 	} 
 	img{
 		width:150px;
@@ -22,10 +23,14 @@ body{
 		text-align:center;
 	    display:flex;
 		justify-content:space-evenly;
+		
 	}
 h1{
 text-align:center;
 }
 .img2{
 	margin-top:10px;
+}
+.book{
+	width:500px;
 }
